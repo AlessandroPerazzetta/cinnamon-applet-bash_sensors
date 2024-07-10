@@ -4,9 +4,9 @@
 
 **Based on [reddit post](https://www.reddit.com/r/linuxmint/comments/t7lkfo/applet_to_display_gpu_and_cpu_temperature/) by [palordrolap](https://www.reddit.com/user/palordrolap/)**
 
-### Add get-temp.sh under /usr/local/sbin/ and referece in applet settings as command
+### Add get-temps.sh under /usr/local/sbin/ and referece in applet settings as command
 
-``sudo cp get-temp.sh /usr/local/sbin/``
+``sudo cp get-temps.sh /usr/local/sbin/``
 
 ### Optional:
 
